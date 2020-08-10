@@ -1,7 +1,7 @@
 ## Competitive programmer/Full stack developer
 ### <p>Hello i'm Akash Chauhan ,study in VVP Engineering College my course BE in information and techonlogy.</p>
 - 🥅 2020 Goals: make better profile for future
-- 🌱 I’m learning Angular,React,Typscipt,MEAN,MERN.
+- 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 
 
 ## Portfolio
