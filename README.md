@@ -32,6 +32,12 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+*To know more about me visit my [portfolio](https://Akash52.github.io/)*
+
+![Advaith's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=["issues"])
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aAkash52n&&show_icons=true)
+
 
 ### Languages and Tools:
 
