@@ -2,25 +2,14 @@
 ### <p>Hello i'm Akash Chauhan ,study in VVP Engineering College my course BE in information and techonlogy.</p>
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
+- I'm currently focusing on improving my DS and Algo skill
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/Akash/) 
 
-
-## Portfolio
-### [Akash Chauhan](https://github.com/Akash52 "My Portfolio").
 ## CP where i'm practice :
 ### [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
 ### [codechef](https://www.codechef.com/users/akash8572 "codechef profile").
 <br />
 
-<!-- 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr -->
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://www.instagram.com/?hl=en 
-[linkedin]: https://www.linkedin.com/feed/
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 *To know more about me visit my [portfolio](https://Akash52.github.io/)*
 
 ![Advaith's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=["issues"])
