@@ -6,10 +6,10 @@
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/akash-chauhan-3616321a4/) 
 
 ## CP where i'm practice :
-### [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
-### [codechef](https://www.codechef.com/users/akash8572 "codechef profile").
-### [SPOJ](https://www.spoj.com/akash8572 "codechef profile").
-### [LeetCode](https://leetcode.com/ac8572611 "Leetcode profile").
+- [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
+- [codechef](https://www.codechef.com/users/akash8572 "codechef profile").
+- [SPOJ](https://www.spoj.com/akash8572 "codechef profile").
+- [LeetCode](https://leetcode.com/ac8572611 "Leetcode profile").
 
 
 <br />
