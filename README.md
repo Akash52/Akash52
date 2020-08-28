@@ -8,6 +8,10 @@
 ## CP where i'm practice :
 ### [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
 ### [codechef](https://www.codechef.com/users/akash8572 "codechef profile").
+### [SPOJ](https://www.codechef.com/users/akash8572 "codechef profile").
+### [LEETCODE](https://www.codechef.com/users/akash8572 "codechef profile").
+
+
 <br />
 
 *To know more about me visit my [portfolio](https://Akash52.github.io/)*
@@ -27,6 +31,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png"/>
 
 
 <br />
