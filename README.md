@@ -33,10 +33,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png"/>
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png"/>
-
-<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png"/>
-
-
 <br />
 <br />
 <p align="center">
@@ -44,5 +40,6 @@
   <a href="https://www.instagram.com/coding.7.7.7/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/ac8572611"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="ac8572611@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+  </p>
   </p>
 
