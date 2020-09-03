@@ -1,5 +1,5 @@
 ## Competitive programmer/Full stack developer
-### <p>Hello i'm Akash Chauhan ,study in VVP Engineering College my course BE in information and techonlogy.</p>
+### <p>“Hello everyone, I am Akash Chauhan. I am from Palitana. I currently doing my Bachelor of Engineering degree from VVP Engineering college (Rajkot).</p>
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
@@ -14,7 +14,7 @@
 
 <br />
 
-*To know more about me visit my [portfolio](https://Akash52.github.io/)*
+*To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
 
 ![Akash github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=["issues"])
 
