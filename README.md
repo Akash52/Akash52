@@ -1,5 +1,5 @@
 ## Competitive programmer/Full stack developer
-### <p>“Hello everyone, I am Akash Chauhan. I am from Palitana. I currently doing my Bachelor of Engineering degree from VVP Engineering college (Rajkot).</p>
+### <p>“Hello everyone, I am Akash Chauhan. I am from Palitana. I currently doing my BE in VVP Engineering college (Rajkot).</p>
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
