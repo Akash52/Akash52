@@ -16,7 +16,7 @@
 
 *To know more about me visit my [portfolio](https://akash52.netlify.app/)*
 
- ![cobalt][cobalt]
+ ![dark][dark]
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-[cobalt]: https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
+[dark]: https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true)
 
