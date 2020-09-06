@@ -14,7 +14,7 @@
 
 <br />
 
-*To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
+*To know more about me visit my [portfolio](https://akash52.netlify.app/)*
 
 ![Akash github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=["issues"])
 
