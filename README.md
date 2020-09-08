@@ -1,34 +1,12 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+[![Linkedin Badge](https://img.shields.io/badge/-abdullahalrifat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-chauhan-3616321a4/)](https://www.linkedin.com/in/abdullahalrifat/)
+[![Medium Badge](https://img.shields.io/badge/-@__abdullahalrifat95-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_a)](https://medium.com/@_abdullahalrifat95)
+[![Gmail Badge](https://img.shields.io/badge/-abdullahalrifat95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ac8572611@gmail.com)](mailto:ac8572611@gmail.com)
 ### Welcome to my profile!
 #### <p>“I am Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
 ### Competitive programmer/Full stack developer
 
 <br/>
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/ihemantjoshi">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Akash52.Akash52)
-
-<br />
 
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
