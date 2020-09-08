@@ -1,8 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### Competitive programmer/Full stack developer
 ### Welcome to my profile!
 #### <p>“I am Akash Chauhan.i'm form India, I currently doing my BE in VVP Engineering college (Rajkot).</p>
+### Competitive programmer/Full stack developer
 
 <br/>
 <a href="https://twitter.com/8bithemant">
