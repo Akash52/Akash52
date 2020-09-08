@@ -35,18 +35,14 @@
 - I'm currently focusing on improving my DS and Algo skill
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/akash-chauhan-3616321a4/) 
 
+*To know more about me visit my [portfolio](https://akash52.netlify.app/)*
+
 ## CP where i'm practice :
 - [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
 - [codechef](https://www.codechef.com/users/akash8572 "codechef profile").
 - [SPOJ](https://www.spoj.com/akash8572 "codechef profile").
 - [LeetCode](https://leetcode.com/ac8572611 "Leetcode profile").
 <br />
-
-
-*To know more about me visit my [portfolio](https://akash52.netlify.app/)*
-
-
-
  ![dark][dark]
  
  
