@@ -5,9 +5,7 @@
 ### Welcome to my profile!
 #### <p>“I am Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
 ### Competitive programmer/Full stack developer
-
 <br/>
-
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
@@ -21,7 +19,9 @@
 - [SPOJ](https://www.spoj.com/akash8572 "codechef profile").
 - [LeetCode](https://leetcode.com/ac8572611 "Leetcode profile").
 <br />
+
  ![dark][dark]
+ 
  
  
  
