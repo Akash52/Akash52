@@ -1,6 +1,8 @@
-## ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 ### Competitive programmer/Full stack developer
-#### <p>“Hello everyone, I am Akash Chauhan. I am from Palitana. I currently doing my BE in VVP Engineering college (Rajkot).</p>
+### Welcome to my profile!
+#### <p>“I am Akash Chauhan.i'm form India, I currently doing my BE in VVP Engineering college (Rajkot).</p>
 
 <br/>
 <a href="https://twitter.com/8bithemant">
@@ -55,5 +57,5 @@
  ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
 </br>
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 
