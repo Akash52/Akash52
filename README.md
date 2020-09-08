@@ -5,11 +5,12 @@
 ### Welcome to my profile!
 #### <p>“I am Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
 ### Competitive programmer/Full stack developer
+
 <br/>
+
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/akash-chauhan-3616321a4/) 
 
 *To know more about me visit my [portfolio](https://akash52.netlify.app/)*
 
