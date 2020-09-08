@@ -20,15 +20,13 @@
 - [SPOJ](https://www.spoj.com/akash8572 "codechef profile").
 - [LeetCode](https://leetcode.com/ac8572611 "Leetcode profile").
 <br />
-
+<p>
  ![dark][dark]
- 
- 
- 
- 
+
  [dark]: https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
  ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+ </p>
 
 </br>
 
