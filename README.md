@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-akashchauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ac8572611@gmail.com)](mailto:ac8572611@gmail.com)
 ### Welcome to my profile!
 #### <p>“I am Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
-### Competitive programmer/Full stack developer
+### <i>Competitive programmer/Full stack developer</i>
 
 <br/>
 
