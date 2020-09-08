@@ -25,12 +25,6 @@
 
  ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/coding.7.7.7/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/ac8572611"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="ac8572611@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
-  </p>
-  </p>
-
+</br>
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
