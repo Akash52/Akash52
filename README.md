@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 [![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-chauhan-3616321a4/)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
-[![Medium Badge](https://img.shields.io/badge/-@__AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_a)](https://medium.com/@_abdullahalrifat95)
+[![Portfolio Badge](https://img.shields.io/badge/-@__AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_a)](https://medium.com/@_abdul)
 [![Gmail Badge](https://img.shields.io/badge/-akashchauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ac8572611@gmail.com)](mailto:ac8572611@gmail.com)
 ### Welcome to my profile!
 #### <p>“I am Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
