@@ -1,5 +1,6 @@
-## Competitive programmer/Full stack developer
-### <p>“Hello everyone, I am Akash Chauhan. I am from Palitana. I currently doing my BE in VVP Engineering college (Rajkot).</p>
+## ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Competitive programmer/Full stack developer
+#### <p>“Hello everyone, I am Akash Chauhan. I am from Palitana. I currently doing my BE in VVP Engineering college (Rajkot).</p>
 
 <br/>
 <a href="https://twitter.com/8bithemant">
