@@ -22,7 +22,7 @@
 <p>
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact)](https://github.com/Akash52/github-readme-stats)'
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact&show_icons=true&theme=radical)](https://github.com/Akash52/github-readme-stats)'
 
 
  </p>
