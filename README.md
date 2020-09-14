@@ -29,9 +29,7 @@
  [dark]: https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
  
  </p>
-
- ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
-
+ 
 </br>
 
 
