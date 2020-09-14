@@ -21,15 +21,14 @@
 <br />
 <p>
  
- ![dark][dark]
  
- 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact)](https://github.com/Akash52/github-readme-stats)'
 
- [dark]: https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
- 
+
  </p>
  
-</br>
+ ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical)
+ 
+
 
 
