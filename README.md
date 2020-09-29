@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-AkashChauhan-orange?style=flat&logo=instagram&logoColor=white&link=https://twitter.com/ac8572611)](https://twitter.com/ac8572611)
 [![Twitter Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=twitter&logoColor=white&link=https://www.instagram.com/coding.7.7.7)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
 ### Welcome to my profile!
-#### <p>“I am Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
+#### <b>“I'm Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</b>
 ### <i>Competitive programmer/Full stack developer</i>
 <br/>
 
