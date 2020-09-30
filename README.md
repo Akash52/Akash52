@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-chauhan-3616321a4/)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
 [![Portfolio Badge](https://img.shields.io/badge/-AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)](https://medium.com/@19it197)
 [![Gmail Badge](https://img.shields.io/badge/-akashchauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ac8572611@gmail.com)](mailto:ac8572611@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-AkashChauhan-orange?style=flat&logo=instagram&logoColor=white&link=https://twitter.com/ac8572611)](https://twitter.com/ac8572611)
-[![Twitter Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=twitter&logoColor=white&link=https://www.instagram.com/coding.7.7.7)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
+[![Instagram Badge](https://img.shields.io/badge/-AkashChauhan-orange?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/coding.7.7.7)](https://www.instagram.com/coding.7.7.7)
+[![Twitter Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ac8572611)](https://twitter.com/ac8572611)
 ### Welcome to my profile!
 #### <b>“I'm Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</b>
 ### <i>Competitive programmer/Full stack developer</i>
