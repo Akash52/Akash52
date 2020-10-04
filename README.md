@@ -6,7 +6,7 @@
 
 <img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30">
 
-### *To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
+### *!To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
 
  ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical)
 
