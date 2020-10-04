@@ -1,6 +1,6 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h1>
 
-<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technlogy from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b>, and I have little knowledge about these technology, its share on <b>Open source community</b></p>
+<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b>, and I have little knowledge about these technology, its share on <b>Open source community</b></p>
 
  *<h3>Languages I am currently playing around with:</h3>*
 
