@@ -1,20 +1,9 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h1>
 
-### Welcome to my profile!
-#### <b>“I'm Akash Chauhan,I'm currently doing my BE in VVP Engineering college (Rajkot).</b>
-### <i>Competitive programmer/Full stack developer</i>
-<br/>
-
-<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java" height="30">  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-071a52?style=for-the-badge&logo=kotlin" height="30">  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30">  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="30">
+<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technlogy from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b>, and I have little knowledge about these technoloy, its share on <b>Open source community</b></p>
 
 #### *To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
 
-### <i>CP where i'm practice :</i>
-- [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
-- [codechef](https://www.codechef.com/users/akash8572 "codechef profile").
-- [SPOJ](https://www.spoj.com/akash8572 "codechef profile").
-- [LeetCode](https://leetcode.com/ac8572611 "Leetcode profile").
-<br />
 <p>
  
  
