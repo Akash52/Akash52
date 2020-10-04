@@ -8,7 +8,7 @@
 
 ### *!To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
 
- ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical)
+ ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=highcontrast)
 
 *<h3>Where to find me:</h3>*
 [![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-chauhan-3616321a4/)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
