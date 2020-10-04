@@ -13,7 +13,7 @@
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
 
-#### *To know more about me visit my [portfolio](https://akash52.netlify.app/)*
+#### *To know more about me visit my [portfolio](https://akash52.github.io/my-portfolio/)*
 
 ### <i>CP where i'm practice :</i>
 - [codeforces](http://codeforces.com/profile/Akashcoder "codeforces profile").
