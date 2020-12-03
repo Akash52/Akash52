@@ -19,8 +19,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-AkashChauhan-orange?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/coding.7.7.7)](https://www.instagram.com/coding.7.7.7)
 [![Twitter Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ac8572611)](https://twitter.com/ac8572611)
  
+ <a href="https://dev.to/akash52">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akash Chauhan's DEV Profile" height="30" width="30">
+</a>
  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
  
- [![Akash Chauhan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/akash52)
+
+      
 
 
