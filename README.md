@@ -1,5 +1,7 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h1>
 
+
+
 <p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b>, and I have little knowledge about these technology, its share on <b>Open source community</b></p>
 
  *<h3>Languages I am currently playing around with:</h3>*
@@ -18,5 +20,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ac8572611)](https://twitter.com/ac8572611)
  
  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+ 
+ [![Akash Chauhan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/akash52)
 
 
