@@ -2,7 +2,7 @@
 
 
 
-<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b>, and I have little knowledge about these technology, its share on <b>Open source community</b></p>
+<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b></p>
 
  *<h3>Languages I am currently playing around with:</h3>*
 
