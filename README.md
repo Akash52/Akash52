@@ -24,7 +24,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akash Chauhan's DEV Profile" height="30" width="30">
 </a>
 
-https://elegant-leavitt-bd789d.netlify.app/
+
  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
  
 
