@@ -1,7 +1,6 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h1>
 
 
-
 <p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b></p>
 
  *<h3>Languages I am currently Learning :</h3>*
@@ -27,6 +26,13 @@
 
  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
  
+ 
+ <h3>Inspiration From Greate YouTuber ! </h3>
+ - Traversy Media
+- JavaScript Mastery
+- Net Ninja
+
+
 
       
 
