@@ -28,9 +28,9 @@
  
  
  <h3>Inspiration From Greate YouTuber ! </h3>
- - Traversy Media
-- JavaScript Mastery
-- Net Ninja
+ - <b>Traversy Media</b>
+- <b>JavaScript Mastery</b>
+- <b>Net Ninja</b>
 
 
 
