@@ -27,7 +27,7 @@
  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
  
  
- <h3>Inspiration From Greate YouTuber ! </h3>
+ <h3>Inspired by Greate YouTuber ! </h3>
  - <b>Traversy Media</b>
 - <b>JavaScript Mastery</b>
 - <b>Net Ninja</b>
