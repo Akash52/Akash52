@@ -1,7 +1,7 @@
 <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{Akash52}/count.svg)
+  
 
 <p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b></p>
 
