@@ -3,12 +3,11 @@
 
   
 
-<p align="center">Currently an undergraduate pursuing my B.E. in Information & Technology from VVP Engineering college(Rajkot). Interested in <b>Web & Android developmnent </b></p>
+Currently an undergraduate pursuing My B.E. in Information & Technology from [VVP Engineering College](https://vvpedulink.ac.in/) Interested in <b>Web & Android developmnent </b>
+  
 
- -----
 
- *<h4>Tech Stack :</h4>*
-
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
@@ -25,22 +24,23 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<div align="center">
 
- ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=highcontrast)
-  
-  </div>
-  
- ---
+  <details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=highcontrast">
+    
+   
+</p>
+</details>
 
-*<h4>Where to find me:</h4>*
+### 📓 Reach me on
 
 <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/coding.7.7.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/akash52" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
----
 
  <div align="center">
  
@@ -53,6 +53,8 @@
 - <b>Net Ninja</b>
   
    </div>
+   
+ 
 
 
 
