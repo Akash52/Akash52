@@ -32,6 +32,9 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
     
    
 </p>
+<a href="https://github.com/Akash52">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight" />
+  </a>
 </details>
 
 ### 📓 Reach me on
