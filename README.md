@@ -28,13 +28,11 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
   <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=highcontrast">
-    
-   
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=highcontrast" />
 </p>
-<a href="https://github.com/Akash52">
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight" />
-  </a>
+  </p>
 </details>
 
 ### 📓 Reach me on
