@@ -35,6 +35,9 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
   </p>
 </details>
 
+<br>
+<br>
+
 ### 📓 Reach me on
 
 <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
