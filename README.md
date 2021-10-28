@@ -3,7 +3,7 @@
 
   
 
-Currently an undergraduate pursuing My B.E. in Information & Technology from [VVP Engineering College](https://vvpedulink.ac.in/) Interested in <b>Web & Android developmnent </b>
+Currently an undergraduate pursuing My B.E. in Information & Technology from [VVP Engineering College](https://vvpedulink.ac.in/) Interested in <b>Web developmnent </b>
   
 
 
