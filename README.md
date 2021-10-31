@@ -26,13 +26,15 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 
 
   <details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=highcontrast" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight" />
-  </p>
+<summary>Click for GitHub Stats & Activity Graph</summary>
+  
+  
+[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 </details>
 
 <br>
@@ -44,6 +46,14 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 <a href="https://www.instagram.com/coding.7.7.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://leetcode.com/ac8572611/" target="_blank">[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/ac8572611/)</a>
 <a href="https://dev.to/akash52" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+
+
+
+
+
+
+<br>
 
 
 
