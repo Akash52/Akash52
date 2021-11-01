@@ -31,7 +31,7 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 <summary>Click for GitHub Stats & Activity Graph</summary>
   
   
-[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=tokyonight)](https://git.io/praveenscience)
+[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](https://git.io/praveenscience)
 
 | ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
 | --- | --- |
