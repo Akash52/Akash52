@@ -49,14 +49,10 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 <a href="https://www.instagram.com/coding.7.7.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/akash52" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://leetcode.com/ac8572611/" target="_blank">[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/ac8572611/)</a>
-
-
-
-
    
    
   <details>
-<summary>Free Time 😀</summary>
+<summary>☕ 🎮 🎶 😀</summary>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&redirect=true)
   </details>
