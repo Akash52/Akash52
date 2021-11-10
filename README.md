@@ -28,8 +28,7 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 
 
   <details>
-<summary>Click for GitHub Stats & Activity Graph</summary> 📈
-
+<summary>Click for GitHub Stats & Activity Graph</summary>
   
   
 [![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
