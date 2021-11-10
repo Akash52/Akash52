@@ -73,8 +73,9 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
   
   
  <summary>Free Time 😀</summary>
+    
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&redirect=true)
   
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
   </details>
    </div>
