@@ -27,12 +27,6 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### Additional things
-
-[YouTube](https://www.youtube.com/channel/UCMxHYtfBXnHTon1LyCfFzig)
-[Instagram](https://www.instagram.com/coding.7.7.7/?hl=en)
-
-
   <details>
 <summary>Click for GitHub Stats & Activity Graph</summary>
   
