@@ -10,7 +10,7 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 
 
 
-  <details>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <details>
 <summary>Click for GitHub Stats & Activity Graph</summary>
   
   
