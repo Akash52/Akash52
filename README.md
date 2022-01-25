@@ -7,6 +7,25 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
   
 
 
+
+
+
+  <details>
+<summary>Click for GitHub Stats & Activity Graph</summary>
+  
+  
+[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
+
+| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+</details>
+
+   
+<br>
+<br>
+
 ### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,23 +45,6 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-  <details>
-<summary>Click for GitHub Stats & Activity Graph</summary>
-  
-  
-[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
-
-| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-</details>
-
-   
-<br>
-<br>
-
 ### 📓 Reach me on
 
 <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -56,11 +58,7 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
   
 <!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&cover_image=true&theme=novatorem&bar_color=1cd016&bar_color_cover=false) -->
   
-   <div align="center">
-  <a href="https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+  
   
   </details>
 
