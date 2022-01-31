@@ -1,28 +1,6 @@
 <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2>
 
 
-  
-
-Currently an undergraduate pursuing My B.E. in Information & Technology from [VVP Engineering College](https://vvpedulink.ac.in/) Interested in <b>Web developmnent </b>
-  
-
-
-
-
-
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <details>
-<summary>Click for GitHub Stats & Activity Graph</summary>
-  
-  
-[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
-
-| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-</details>
-
-   
 <br>
 <br>
 
@@ -45,6 +23,18 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <details>
+<summary>Click for GitHub Stats & Activity Graph</summary>
+  
+  
+[![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
+
+| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&theme=tokyonight&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+</details>
+
 ### 📓 Reach me on
 
 <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -56,8 +46,7 @@ Currently an undergraduate pursuing My B.E. in Information & Technology from [VV
   <details>
 <summary>☕ 🎮 🎶 😀</summary>
   
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&cover_image=true&theme=novatorem&bar_color=1cd016&bar_color_cover=false)
-  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&redirect=true)
  
 
   
