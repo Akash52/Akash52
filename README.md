@@ -1,15 +1,16 @@
 <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2>
 
-<div align="center">
- 
-<img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="alt text" width="300"/>
- 
- 
- </div>
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-### ⚡ Technologies
+###  Technologies
 
+<details>
+ 
+<summary> ⚡ Technologies</summary>
+ 
+ <br>
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -26,25 +27,31 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ 
+ </details>
 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <details>
-<summary>Click for GitHub Stats & Activity Graph</summary>
+<details>
+<summary>Click for GitHub Stats & Activity Graph 🚀 </summary>
   
   
 [![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
 | ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Akash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
 | --- | --- |
-| ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical)
- | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact&theme=gotham)](https://github.com/Akash52/github-readme-stats)
+
 
 </details>
 
-### 📓 Reach me on
+<details>
+ 
+ <summary>Reach me on 🤝</summary>
 
 <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/coding.7.7.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/akash52" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://leetcode.com/ac8572611/" target="_blank">[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/ac8572611/)</a>
+ 
+ </details>
    
    
   <details>
@@ -57,20 +64,15 @@
   
   </details>
 
-
- <div align="center">
+    
+    
+  <div align="right">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+   <h3>Inspired by Greate YouTuber! </h3>
  
- [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-  
+   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
  
- 
- 
- <h3>Inspired by Greate YouTuber ! </h3>
- - <b>Traversy Media</b>
-- <b>JavaScript Mastery</b>
-- <b>Net Ninja</b>
-  
-   </div>
+  </div>
 
    
 
