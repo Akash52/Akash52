@@ -35,9 +35,9 @@
   
   
 [![Akash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash52&theme=react-dark)](Akash52)
-| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=tokyonight) | ![Akash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=tokyonight) |
+| ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=gotham) | ![Akash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash52&theme=gotham) |
 | --- | --- |
-| ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact&theme=gotham)](https://github.com/Akash52/github-readme-stats)
+| ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=gotham) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact&theme=gotham)](https://github.com/Akash52/github-readme-stats)
 
 
 </details>
