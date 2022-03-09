@@ -65,7 +65,7 @@
  
  <div align="right">
   
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&unique={true|1|on|yes})
+<!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&unique={true|1|on|yes}) -->
  
 </div>
  
