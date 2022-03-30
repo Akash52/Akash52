@@ -1,5 +1,10 @@
 <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2>
 
+
+
+
+
+
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
@@ -67,12 +72,14 @@
    
 </div>
  
- <div align="right">
+ <div align="center">
   
 <!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&unique={true|1|on|yes}) -->
  
 </div>
  
   </details>
+  
+  <img align="center"  height="100px" alt="GIF" src="https://c.tenor.com/yvguk4DLq9QAAAAi/technologist-people.gif" />
 
   
