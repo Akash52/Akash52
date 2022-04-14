@@ -86,6 +86,8 @@
 	  <summary> Quotes 😃 </summary>
 	
 	“Speak in such a way that others love to listen to you. Listen in such a way that others love to speak to you.”
+	
+	“Always do your best. What you plant now, you will harvest later.”
 
 </details>
 
