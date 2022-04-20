@@ -88,6 +88,8 @@
 	“Speak in such a way that others love to listen to you. Listen in such a way that others love to speak to you.”
 	
 	“Always do your best. What you plant now, you will harvest later.”
+	
+	“You can, you should, and if you’re brave enough to start, you will.”
 
 </details>
 
