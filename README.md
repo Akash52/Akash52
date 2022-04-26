@@ -82,7 +82,7 @@
   <img align="center"  height="100px" alt="GIF" src="https://c.tenor.com/yvguk4DLq9QAAAAi/technologist-people.gif" />
   
 
-<details>
+<!-- <details>
 	  <summary> Quotes 😃 </summary>
 	
 	“Speak in such a way that others love to listen to you. Listen in such a way that others love to speak to you.”
@@ -92,6 +92,6 @@
 	“You can, you should, and if you’re brave enough to start, you will.”
 
 </details>
-
+ -->
 
   
