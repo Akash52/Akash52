@@ -61,7 +61,7 @@
    
    
   <details>
-<summary>☕ 🎮 🎶 😀</summary>
+<summary open>☕ 🎮 🎶 😀</summary>
  
   <div align="center">
 
