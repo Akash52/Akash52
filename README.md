@@ -83,16 +83,18 @@
   <img align="center"  height="100px" alt="GIF" src="https://c.tenor.com/yvguk4DLq9QAAAAi/technologist-people.gif" />
   
 
-<!-- <details>
+<details>
 	  <summary> Quotes 😃 </summary>
-	
-	“Speak in such a way that others love to listen to you. Listen in such a way that others love to speak to you.”
-	
-	“Always do your best. What you plant now, you will harvest later.”
-	
-	“You can, you should, and if you’re brave enough to start, you will.”
 
+	“A butterfly is a beautiful creature,
+		But it only lives for a few weeks.”
+	
+	“A rainbow is a beautiful phenomenon,
+		But it only lasts about 90 seconds.”
+	
+	“A falling comet is a beautiful event,
+		But it is visible for only a few minutes.”
 </details>
- -->
+
 
   
