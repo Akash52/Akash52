@@ -80,7 +80,7 @@
  
   </details>
   
-  <img align="center"  height="100px" alt="GIF" src="https://c.tenor.com/yvguk4DLq9QAAAAi/technologist-people.gif" />
+
   
 
 <details>
