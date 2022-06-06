@@ -84,7 +84,7 @@
   
 
 <details>
-	  <summary> Quotes 😃 </summary>
+	  <summary> Quotes 📝 </summary>
 
 	“A butterfly is a beautiful creature,
 		But it only lives for a few weeks.”
