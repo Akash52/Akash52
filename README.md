@@ -92,6 +92,8 @@
 	
 	“A falling comet is a beautiful event,
 		But it is visible for only a few minutes.”
+	
+	“Don’t go through life, grow through life.”
 </details>
 
 
