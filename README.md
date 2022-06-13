@@ -60,8 +60,8 @@
 	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)
 <a href="https://leetcode.com/ac8572611/" target="_blank">[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/ac8572611/)</a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&redirect=true" target="_blank"> 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=style=flat-square&logo=spotify&logoColor=white) </a>
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=style=flat-square&logo=xbox&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white) </a>
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=style=flat-square&logo=steam&logoColor=white)
  
  </details>
