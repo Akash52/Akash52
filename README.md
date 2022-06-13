@@ -1,10 +1,8 @@
 <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+ there,+I+am+===+AkashChauhan;Nice+to+meet+you!===+WEB+DEVELOPMENT;;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg) -->
 
 
-
-<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 <details>
@@ -57,7 +55,7 @@
 <a href="https://www.linkedin.com/in/akash-chauhan-3616321a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/coding.7.7.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/akash52" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)
 <a href="https://leetcode.com/ac8572611/" target="_blank">[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/ac8572611/)</a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=38j2rxoo47fanswkq1lb10bzq&redirect=true" target="_blank"> 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white) </a>
@@ -77,18 +75,10 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&unique={true|1|on|yes})
    
 </div>
- 
- <div align="center">
-  
-<!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&unique={true|1|on|yes}) -->
- 
-</div>
+
  
   </details>
   
-
-  
-
 <details>
 	  <summary> Quotes 📝 </summary>
 
