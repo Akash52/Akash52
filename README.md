@@ -94,6 +94,8 @@
 	“Don’t go through life, grow through life.”
 	
 	“Make your faith larger than your fears and your dreams larger than your doubts.”
+	
+	“Be curious about everything. Never stop learning. Never stop growing.”
 </details>
 
 
