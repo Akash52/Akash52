@@ -96,6 +96,8 @@
 	“Make your faith larger than your fears and your dreams larger than your doubts.”
 	
 	“Be curious about everything. Never stop learning. Never stop growing.”
+	
+	“Life is simple. Are you happy? Yes? Keep going. No? Change something.”
 </details>
 
 
