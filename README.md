@@ -98,6 +98,8 @@
 	“Be curious about everything. Never stop learning. Never stop growing.”
 	
 	“Life is simple. Are you happy? Yes? Keep going. No? Change something.”
+	
+	“Feelings are just visitors. Let them come and go.”
 </details>
 
 
