@@ -81,6 +81,8 @@
   
 <details>
 	  <summary> Quotes 📝 </summary>
+	  
+	  I'm the Best , I can dot it , God alwasy with me , Today is my new day 
 
 	“A butterfly is a beautiful creature,
 		But it only lives for a few weeks.”
