@@ -79,6 +79,8 @@
  
   </details>
   
+  <!--
+  
 <details>
 	  <summary> Quotes 📝 </summary>
 	  
@@ -103,6 +105,8 @@
 	
 	“Feelings are just visitors. Let them come and go.”
 </details>
+
+-->
 
 
   
