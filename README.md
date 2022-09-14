@@ -104,6 +104,8 @@
 	“Life is simple. Are you happy? Yes? Keep going. No? Change something.”
 	
 	“Feelings are just visitors. Let them come and go.”
+	
+	"The moment you give up, is the moment you let someone else win." - Kobe Bryant
 </details>
 
 -->
