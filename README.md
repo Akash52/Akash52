@@ -65,7 +65,7 @@
  </details>
    
    
-  <details>
+  <details open>
 <summary open>☕ 🎮 🎶 😀</summary>
  
   <div align="center">
