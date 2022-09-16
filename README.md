@@ -1,8 +1,6 @@
-<h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF4444&width=435&lines=Hi+there+%2C+I'm+Akash+Chauhan+;Nice+to+Meet+You!;Software+Engineer+at+Simform;Multi+Stack+Web+Developer)](https://git.io/typing-svg)
 
-<a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAB308&width=435&lines=Multi+Stack+Web+Developer;Software+Engineer+at+Simform" alt="Typing SVG" /></a>
-
-
+<!-- <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2> -->
 
 <img align="right" height="170px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
