@@ -110,5 +110,7 @@
 
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAB308&width=435&lines=Multi+Stack+Developer;Software+Engineer+at+Simform)](https://git.io/typing-svg)
+
 
   
