@@ -1,4 +1,8 @@
+  <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF4444&width=435&lines=Hi+there+%2C+I'm+Akash+Chauhan+%F0%9F%98%8A+;Nice+to+Meet+You!;Software+Engineer+at+Simform;Multi+Stack+Web+Developer)](https://git.io/typing-svg)
+
+</div>
 
 <!-- <h2 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Akash Chauhan.<br> Nice to meet you!</h2> -->
 
