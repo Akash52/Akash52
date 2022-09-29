@@ -112,6 +112,8 @@
 	“Feelings are just visitors. Let them come and go.”
 	
 	"The moment you give up, is the moment you let someone else win." - Kobe Bryant
+	
+	“The only way to do great work is to love the work you do.”
 </details>
 
 -->
