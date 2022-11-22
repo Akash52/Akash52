@@ -114,6 +114,9 @@
 	"The moment you give up, is the moment you let someone else win." - Kobe Bryant
 	
 	“The only way to do great work is to love the work you do.”
+	
+	Programming is the art of telling another human being what one wants the computer to do
+	
 </details>
 
 -->
