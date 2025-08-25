@@ -1,45 +1,36 @@
 ```
-╭─────────────────────────────────────────────────────────╮
-│                    AKASH CHAUHAN                        │
-│           Frontend Multistack Developer                 │
-╰─────────────────────────────────────────────────────────╯
+"Imagination is the most powerful processor,
+ compiling hope faster than any machine."
 ```
 
-**`> whoami`**
-```bash
-akash@simform:~$ cat profile.json
-{
-  "experience": "3.5+ years",
-  "education": "B.Tech Information Technology", 
-  "location": "India",
-  "status": "Building digital experiences"
-}
+**akash.dev**
+```
+Frontend Developer @ Simform
+3.5 years | B.Tech IT | India
 ```
 
-**`> tech --stack`**
-```yaml
-frameworks: [React, Vue.js, Angular]
-languages: [TypeScript, JavaScript, CSS3]
-styling: [TailwindCSS, Bootstrap, Vuetify]
-tools: [Git, VS Code, Redux]
+**stack.js**
+```javascript
+const skills = ['React', 'Vue.js', 'Angular', 'TypeScript'];
+const tools = ['CSS3', 'TailwindCSS', 'Bootstrap', 'Vuetify'];
 ```
 
-**`> projects --featured`**
+**portfolio.map()**
 ```
-├── Business Case Study Platform
-├── CV Management Portal  
-├── Gender Equality Analytics
-└── School Behavior Tracker
+business-case-platform    // transparency
+cv-management-portal      // efficiency  
+equality-analytics        // impact
+school-behavior-tracker   // education
 ```
 
-**`> social --links`**
+**connect()**
 ```
-[LinkedIn] → linkedin.com/in/akash-chauhan-3616321a4
-[Dev.to]   → dev.to/akash52
-[LeetCode] → leetcode.com/ac8572611/
+linkedin.com/in/akash-chauhan-3616321a4
+dev.to/akash52
+leetcode.com/ac8572611
 ```
 
 ---
-```javascript
-while(true) { design(); code(); deploy(); improve(); }
+```
+while(dreaming) { code(); }
 ```
