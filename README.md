@@ -7,18 +7,14 @@ const akash = {
   role: "Frontend Multistack Developer",
   experience: "3.5+ years",
   location: "India 🇮🇳",
-  passion: "Crafting digital solutions that matter"
+  passion: "Crafting digital solutions that matter",
+  
+  techStack: {
+    frontend: ["React", "Vue.js", "Angular", "TypeScript", "JavaScript"],
+    styling: ["CSS3", "TailwindCSS", "Bootstrap", "Vuetify"],
+    tools: ["Git", "VS Code", "Redux"]
+  }
 };
 ```
-
-## 🛠️ Tech Stack
-
-```
-Frontend: React • Vue.js • Angular • TypeScript • JavaScript
-Styling: CSS3 • TailwindCSS • Bootstrap • Vuetify
-Tools: Git • VS Code • Redux
-```
-
----
 
 *"Building responsive, scalable applications that make a difference"* ✨
