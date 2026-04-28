@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ```ts
 const akash = {
   role:       "Senior Frontend Multi-Stack @ Simform · Mentor",
@@ -25,9 +23,6 @@ const akash = {
   writes:     "Technical blogs on Simform Engineering × Medium",
 };
 ```
-
----
-
 ### 🛠 What I reach for
 
 ![Vue](https://img.shields.io/badge/Vue3-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -39,8 +34,6 @@ const akash = {
 ![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
-
 ### ✍️ Writing I'm proud of
 
 - [TanStack Query: the fetching solution you've been looking for](https://medium.com/simform-engineering/tanstack-query-the-data-fetching-solution-youve-been-looking-for-60e6e14261e6)
@@ -48,7 +41,6 @@ const akash = {
 - [SOLID Principles — real-world, no fluff](https://medium.com/simform-engineering/decoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5)
 - [PWA across 6 popular frameworks](https://medium.com/simform-engineering/building-awesome-pwas-using-six-leading-frontend-frameworks-61bb7c280c4f)
 
----
 
 ### 🎧 Coding fuel
 
