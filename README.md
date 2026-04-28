@@ -38,7 +38,7 @@ const akash = {
 
 ### Writing I'm proud of
 
-- [TanStack Query: the fetching solution you've been looking for](https://medium.com/@19it197.akashbhai.chauhan/tanstack-query-the-data-fetching-solution-youve-been-looking-for)
+- [TanStack Query: the fetching solution you've been looking for](https://medium.com/simform-engineering/tanstack-query-the-data-fetching-solution-youve-been-looking-for-60e6e14261e6)
 - [How I migrated a production app from Nuxt 3 → Nuxt 4](https://medium.com/simform-engineering/how-i-successfully-migrated-my-production-app-from-nuxt-3-to-nuxt-4-0b7379d0743d)
 - [SOLID Principles — real-world, no fluff](https://medium.com/simform-engineering/decoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5)
 - [PWA across 6 popular frameworks](https://medium.com/simform-engineering/building-awesome-pwas-using-six-leading-frontend-frameworks-61bb7c280c4f)
