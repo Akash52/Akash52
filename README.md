@@ -15,8 +15,6 @@
   [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq)
 </div>
 
----
-
 ```ts
 const akash = {
   role:      "Senior Frontend Multi-Stack @ Simform · Mentor",
@@ -26,8 +24,6 @@ const akash = {
   writes:     "Technical blogs on Simform Engineering × Medium",
 };
 ```
-
----
 
 ### What I reach for
 
@@ -40,16 +36,12 @@ const akash = {
 ![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
-
 ### Writing I'm proud of
 
 - [TanStack Query: the fetching solution you've been looking for](https://medium.com/@19it197.akashbhai.chauhan/tanstack-query-the-data-fetching-solution-youve-been-looking-for)
 - [How I migrated a production app from Nuxt 3 → Nuxt 4](https://medium.com/simform-engineering/how-i-successfully-migrated-my-production-app-from-nuxt-3-to-nuxt-4-0b7379d0743d)
 - [SOLID Principles — real-world, no fluff](https://medium.com/simform-engineering/decoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5)
 - [PWA across 6 popular frameworks](https://medium.com/simform-engineering/building-awesome-pwas-using-six-leading-frontend-frameworks-61bb7c280c4f)
-
----
 
 ### Coding fuel 🎧
 
