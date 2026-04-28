@@ -58,8 +58,6 @@ const akash = {
 
 ![now-playing](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&count=3&unique=true)
 
----
-
 <div align="center">
   <sub>Open to interesting frontend conversations · ac8572611@gmail.com</sub>
 </div>
