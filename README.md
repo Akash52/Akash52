@@ -29,15 +29,6 @@ const akash = {
 
 ---
 
-### A few things that actually matter
-
-- &nbsp;Shipped across **Angular → Vue → React** within 6 months — without dropping production quality
-- &nbsp;Built an **AI Prompt Library (v1.2)** · 25+ prompts now used daily by the Vue.js team
-- &nbsp;Run dept-level training sessions · currently mentoring juniors
-- &nbsp;5 production apps · 3 POCs · one very caffeinated brain
-
----
-
 ### What I reach for
 
 ![Vue](https://img.shields.io/badge/Vue3-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
