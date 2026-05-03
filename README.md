@@ -1,6 +1,5 @@
 <!-- wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%"/>
-
 <div align="center">
 
 <!-- Animated greeting -->
@@ -23,8 +22,8 @@ const akash = {
   writes:     "Technical blogs on Simform Engineering × Medium",
 };
 ```
-### 🛠 What I reach for
 
+### 🛠 What I reach for
 ![Vue](https://img.shields.io/badge/Vue3-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -35,24 +34,18 @@ const akash = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### ✍️ Writing I'm proud of
-
 - [TanStack Query: the fetching solution you've been looking for](https://medium.com/simform-engineering/tanstack-query-the-data-fetching-solution-youve-been-looking-for-60e6e14261e6)
 - [How I migrated a production app from Nuxt 3 → Nuxt 4](https://medium.com/simform-engineering/how-i-successfully-migrated-my-production-app-from-nuxt-3-to-nuxt-4-0b7379d0743d)
 - [SOLID Principles — real-world, no fluff](https://medium.com/simform-engineering/decoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5)
 - [PWA across 6 popular frameworks](https://medium.com/simform-engineering/building-awesome-pwas-using-six-leading-frontend-frameworks-61bb7c280c4f)
 
-
 ### 🎧 Coding fuel
-
 > *Some bugs only die after the third loop of the same album.*
-[![Spotify](https://novatorem-jos5.vercel.app/api/orchestrator?background_type=blur_dark&border_color=6C63FF&show_status=true)](https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq)
-> 
-![now-playing](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&count=3&unique=true)
+
+[![Spotify](https://novatorem-jos5.vercel.app/api/orchestrator?background_type=blur_dark&border_color=6C63FF&show_status=true&width=800)](https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq)
 
 ---
-
 <div align="center">
   <sub>Open to interesting frontend conversations · <a href="mailto:ac8572611@gmail.com">ac8572611@gmail.com</a></sub>
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
