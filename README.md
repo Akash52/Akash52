@@ -45,7 +45,8 @@ const akash = {
 ### 🎧 Coding fuel
 
 > *Some bugs only die after the third loop of the same album.*
-
+[![Spotify](https://novatorem-jos5.vercel.app/api/orchestrator?background_type=blur_dark&border_color=6C63FF&show_status=true)](https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq)
+> 
 ![now-playing](https://spotify-recently-played-readme.vercel.app/api?user=38j2rxoo47fanswkq1lb10bzq&count=3&unique=true)
 
 ---
