@@ -36,8 +36,9 @@ Vue 3 · Nuxt 3 · React · Angular · TypeScript · Pinia · TanStack Query · 
 [All 12 →](https://akash52.github.io/akash-chauhan/writing)
 
 ### Currently playing
-
 Some bugs only die after the third loop of the same album.
+
+[![Spotify](https://novatorem-jos5.vercel.app/api/orchestrator?background_type=blur_dark&border_color=6C63FF&show_status=true&width=800)](https://open.spotify.com/user/38j2rxoo47fanswkq1lb10bzq)
 
 ### Elsewhere
 
